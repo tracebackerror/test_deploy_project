@@ -1,0 +1,1 @@
+web: gunicorn test_deploy_project.wsgi
